@@ -7,6 +7,8 @@ Created as an assignment for the Natural Computing course at UFMG in the first t
 
 The `TP 1.ipynb` file is a Jupyter Notebook document that presents plots from the testing results (varying the evolution params) using the datasets `SR_circle.txt` and `SR_ellipse_noise.txt` (similar to the previous, but with noisy `y` values).
 
+A fixed seed value was assigned (0) to ensure the tests' reproducibility.
+
 ## Instructions
 
 * Install the required packages by running on terminal:
