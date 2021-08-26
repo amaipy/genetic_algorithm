@@ -3,9 +3,9 @@
 A Genetic Programming Algorithm developed from scratch to solve Symbolic Regression problems, 
 implemented using Python 3.8.
 
-Created as an assignment for the Natural Computing course at UFMG in the first term of 2020 (01/2020)
+Created as an assignment for the Natural Computing course at UFMG in the first term of 2020 (01/2020).
 
-The `TP 1.ipynb` file is a Jupyter Notebook that presents plots from the testing results (varying the evolution params) using the datasets `SR_circle.txt` and `SR_ellipse_noise.txt` (similar to the previous, but with noisy `y` values).
+The `TP 1.ipynb` file is a Jupyter Notebook document that presents plots from the testing results (varying the evolution params) using the datasets `SR_circle.txt` and `SR_ellipse_noise.txt` (similar to the previous, but with noisy `y` values).
 
 ## Instructions
 
